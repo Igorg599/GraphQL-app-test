@@ -7,7 +7,7 @@ const app = express()
 const PORT = 3005
 
 mongoose.connect(
-  "mongodb+srv://igorg99:srmyNMI96GnHbtn5@cluster0.yf2hy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "mongodb+srv://igorg99:srmyNMI96GnHbtn5@cluster0.yf2hy.mongodb.net/My",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
